@@ -1,6 +1,6 @@
 # Rafael Bartolomeu Reis
 
-Developer/Test Automation @Topaz.
+Developer / Test Automation @Topaz.
 
 #
 <div>
