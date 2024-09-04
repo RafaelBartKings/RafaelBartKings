@@ -1,7 +1,3 @@
-Aqui está uma versão melhorada do seu README no GitHub, com alguns ajustes para torná-lo mais informativo e atrativo:
-
----
-
 # Rafael Bartolomeu Reis
 
 ### Developer | Test Automation Engineer
